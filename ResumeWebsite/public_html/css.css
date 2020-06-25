@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 9, 2020, 6:00:14 PM
+    Author     : grant
+*/
+
+
+header h1{
+    text-align:center;
+    color: #588b8b;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+header h3{
+    text-align:center;
+    color:  #c8553d;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+main div h3{
+    text-align:center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    
+}
+
+body{
+    background-image:url("images/lines.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+
+h2{
+    text-align:center;
+    color: #c8553d;
+    opacity: 1;
+    font-family: "Arial Black", Gadget, sans-serif;
+    
+}
+
+main div h3{
+    padding-bottom:0;
+    padding-top: 10px;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+
+p{
+    text-align:center;
+    font-family: "Arial", Gadget, sans-serif;
+    
+}
+
+main div{
+    background-color:#588b8b;
+    width: 500px;
+    margin: auto;
+    padding: 25px;
+    opacity: 0.9;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+
+main div h2{
+    opacity: 1;
+}
+
+main div p{
+    opacity: 1;
+}
+
+a{
+    text-align:center;
+    
+    font-family: "Arial", Gadget, sans-serif;
+}
+
+ul{
+    width: 420px;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: "Arial", Gadget, sans-serif;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
+    width: 420px;
+    font-family: "Arial", Gadget, sans-serif;
+   
+}
+
